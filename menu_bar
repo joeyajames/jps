@@ -1,5 +1,6 @@
 <html>
 <header>
+<!-- we put all the styling inside the header tags. Normally the styles would go in a separate file -->
   <style>
   ul {
   list-style-type: none;
@@ -27,7 +28,9 @@ li a:hover {
 }
   </style>
 </header>
+
 <body>
+<!-- This is our HTML code for the menu itself. -->
 <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
