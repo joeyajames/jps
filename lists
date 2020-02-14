@@ -1,0 +1,12 @@
+<ul>
+  <li>This is a bullet list</li>
+  <li>also called an unordered list</li>
+  <li>li is for list item</li>
+</ul>
+<ol>
+  <li>This is a numbered list</li>
+  <li>also called an ordered list</li>
+    <ul>
+        <li>this is a sublist, just add another list inside a list</li>
+    </ul>
+</ol>
