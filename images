@@ -1,0 +1,9 @@
+<!-- Image resized to 200x140 pixels -->
+<img src="https://kahoot.com/files/2020/02/K-for-schools-usecase-focus-on-.png" width="200" height="140" />
+
+<img src="https://kahoot.com/files/2020/02/K-for-schools-usecase-focus-on-.png" />
+
+<!-- Image with URL link, use the a (anchor) tag. -->
+<a href="http://www.fandango.com">
+    <img src="https://kahoot.com/files/2019/10/MCA_Gold_Label_2in_150dpi_Print-copy.jpg" width="200" height="200" />
+</a>
