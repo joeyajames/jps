@@ -1,5 +1,0 @@
-<a href="http://www.google.com">Here's a link to Google.</a>
-<br>
-Here's a link to <a href="http://www.yahoo.com">yahoo</a>.
-
-<p>Anything between the a tags will have the link that is given in href.</p>
