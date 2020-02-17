@@ -20,17 +20,25 @@ textarea {
   border-radius: 4px;
   background-color: #f8f8f8;
 }
-input[type=button], input[type=submit], input[type=reset] {
+input[type=button], input[type=submit] {
   background-color: mediumseagreen;
-  border: none;
   color: white;
+  border: none;
   padding: 16px 32px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
 }
-input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+input[type=button]:hover, input[type=submit]:hover {
   background-color: seagreen;
   color: lightgray;
-  cursor: pointer;
+}
+#ashanti {
+  background-color: tomato;
+  color: white;
+  width: 200px;
+}
+#ashanti:hover {
+  background-color: teal;
+  color: lightgray;
 }
