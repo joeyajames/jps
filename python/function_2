@@ -1,5 +1,5 @@
 def solve_quadratic(a, b, c):
-  inside = b**2 - 4 * a * c
+  inside = b**2 - (4 * a * c)
   if (inside < 0):
     return None
   elif (inside == 0):
