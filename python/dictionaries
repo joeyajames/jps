@@ -1,0 +1,10 @@
+# DICTIONARIES
+prices = {'shrimp':8.52, 'chicken':4.35, 'beef':6.28}
+print(prices.items())
+print('chicken: ', prices['chicken'])
+
+# UPDATE AND ADD TO A DICTIONARY
+prices['beef'] = 2.99
+prices['pork'] = 7.55
+print(prices.keys())
+print(prices.values())
