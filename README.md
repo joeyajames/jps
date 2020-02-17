@@ -24,6 +24,12 @@ Try modifying the code to see how the output changes. Go to [w3schools](https://
 - Experiment with different font sizes. Try bigger and smaller font sizes using 14px or 25px. You can also use % for font sizes, where 125% is 25% bigger than normal.
 - Try the mouse-over styles by changing the a:hover css. What happens when you add a p:hover style or an h3:hover style?
 - Copy and paste my table styles into the jsfiddle css window and run it. Then try editing it to make your own style for tables by setting different values for table, tr, td, and th tags. What happens when you add a td:hover style?
+### Instructions, Day 3: Python
+- Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
+- Copy and paste the python code in each of the files from GitHub into the repl, and run.
+- What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
+- How do you access individual items in a list?
+- How are dictionaries different from lists?
 ### Definitions
 - HTML is hypertext markup language, which is a formatted text that web browsers can understand and decode to show you formatted content.
 - CSS means cascading style sheets. This allows web developers to customize styles for different elements across a whole website. Even if you have 500 different webpages on your site, you can change the paragraph font size by only changing the CSS document in 1 place, so it saves a lot of time and makes the whole site consistent.
