@@ -1,0 +1,21 @@
+# LISTS
+scores = [67, 32, 29]
+print(scores[2])
+
+print(sum(scores))
+print(len(scores))
+
+# USING A FOR LOOP TO ITERATE A LIST
+for score in scores:
+  if score % 2 == 0:
+    print(score, ' is even.')
+
+names = ["Alice", "Tina", "Berta"]
+
+# SORTING A LIST
+print(sorted(names))
+
+# ITERATE A LIST TO FIND NAMES THAT CONTAIN C
+for name in names:
+  if 'c' in name:
+    print(name + ' contains a c')
