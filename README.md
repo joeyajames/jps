@@ -31,6 +31,8 @@ Try modifying the code to see how the output changes. Go to [w3schools](https://
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
 - How are dictionaries different from lists?
+- Try writing your own for loop to do an operation on each item in a list (eg. add 5 to each number).
+- What kinds of things could functions be used for?
 ### Definitions
 - HTML is hypertext markup language, which is a formatted text that web browsers can understand and decode to show you formatted content.
 - CSS means cascading style sheets. This allows web developers to customize styles for different elements across a whole website. Even if you have 500 different webpages on your site, you can change the paragraph font size by only changing the CSS document in 1 place, so it saves a lot of time and makes the whole site consistent.
