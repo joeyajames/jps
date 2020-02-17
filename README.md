@@ -19,7 +19,7 @@ Add images you find on the web (you just need the image url to put the image int
 Put things you like on your homepage.  
 ### Instructions, Day 2: CSS
 - Open a jsfiddle window, the GitHub css folder, and w3schools in separate tabs in your browser.
-- Copy and paste the HTML code from each of the HTML files and the css code from the corresponding css file into the jsfiddle and run it.  
+- To to the css folder. Copy and paste the HTML code from each of the HTML files and the css code from the corresponding CSS file into the jsfiddle and run it.  
 Try modifying the code to see how the output changes. Go to [w3schools](https://www.w3schools.com/cssref/css_colors.asp) color picker and pick colors you like. There's a big selection of named colors, and you can also enter a hex color code (eg. #a355c4). You can use an html color picker to find a hex code for any color you like.
 - Experiment with different font sizes. Try bigger and smaller font sizes using 14px or 25px. You can also use % for font sizes, where 125% is 25% bigger than normal.
 - Try the mouse-over styles by changing the a:hover css. What happens when you add a p:hover style or an h3:hover style?
