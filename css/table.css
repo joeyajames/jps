@@ -1,0 +1,22 @@
+table, tr, td, th {
+  font-family: sans-serif;
+  border: 1px solid black;
+  border-color: gray;
+  border-collapse: collapse;
+  padding: 8px;
+}
+table {
+  width: 50%;
+}
+th {
+  background-color: beige;
+}
+td {
+  text-align: center;
+}
+tr:hover {
+  background-color: #D1F2EB;
+}
+#boss {
+  font-weight: bold;
+}
