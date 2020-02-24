@@ -15,7 +15,7 @@ W3schools has comprehensive explanations of all HTML tags.
 - Complete the HTML worksheet as you go.  
 - Open a jsfiddle window, the GitHub html folder, and w3schools in separate tabs in your browser.
 - Copy and paste the HTML code from each of the HTML files into the jsfiddle and run it.  
-Do in order: 1. text, 2. images, 3. table, 3. lists, 4. the rest.  
+Do files in order: 1. text, 2. images, 3. tables, 3. lists, 4. html forms, 5. menu bar, 6. page template, 7. homepage.  
 Try modifying the code to see how the output changes. Add an extra block of text, or an extra form field. Put your own message in. Try making your own table or your own form. 
 - After you get familiar with each of the files in the html folder, try building up your own personal webpage, similar to mine (homepage_2.html).  
 Add images you find on the web. You just need the image url to put the image into your webpage. You can do a google image search, the right-click the image and copy url. You may need to resize the images using width=wwwpx height=hhhpx. 
