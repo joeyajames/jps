@@ -22,8 +22,8 @@ Add images you find on the web. You just need the image url to put the image int
 Put things you like on your homepage.  
 ### Instructions, Day 2: CSS
 - Open a jsfiddle window, the GitHub css folder, and w3schools in separate tabs in your browser.
-- To to the css folder. Copy and paste the HTML code from each of the HTML files and the css code from the corresponding CSS file into the jsfiddle and run it.  
-Try modifying the code to see how the output changes. Go to [w3schools](https://www.w3schools.com/cssref/css_colors.asp) color picker and pick colors you like. There's a big selection of named colors, and you can also enter a hex color code (eg. #a355c4). You can use an html color picker to find a hex code for any color you like.
+- Go to the css folder. Copy and paste the HTML code from each of the HTML files and the CSS code from the corresponding CSS file into the jsfiddle and run it. **Do files in this order: 1. text, 2. table, 3. forms.**    
+- Try modifying the code to see how the output changes. Go to [w3schools](https://www.w3schools.com/cssref/css_colors.asp) color picker and pick colors you like. There's a big selection of named colors, and you can also enter a hex color code (eg. #a355c4). You can use an html color picker to find a hex code for any color you like.
 - Experiment with different font sizes. Try bigger and smaller font sizes using 14px or 25px. You can also use % for font sizes, where 125% is 25% bigger than normal.
 - Try the mouse-over styles by changing the a:hover css. What happens when you add a p:hover style or an h3:hover style?
 - Copy and paste my table styles into the jsfiddle css window and run it. Then try editing it to make your own style for tables by setting different values for table, tr, td, and th tags. What happens when you add a td:hover style?
