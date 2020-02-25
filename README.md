@@ -15,7 +15,7 @@ W3schools has comprehensive explanations of all HTML tags.
 - Complete the HTML worksheet as you go.  
 - Open a jsfiddle window, the GitHub html folder, and w3schools in separate tabs in your browser.
 - Copy and paste the HTML code from each of the HTML files into the jsfiddle and run it.  
-Do files in order: 1. text, 2. images, 3. tables, 3. lists, 4. html forms, 5. menu bar, 6. page template, 7. homepage.  
+**Do files in order: 1. text, 2. images, 3. tables, 3. lists, 4. html forms, 5. menu bar, 6. page template, 7. homepage.**  
 Try modifying the code to see how the output changes. Add an extra block of text, or an extra form field. Put your own message in. Try making your own table or your own form. 
 - After you get familiar with each of the files in the html folder, try building up your own personal webpage, similar to mine (homepage_2.html).  
 Add images you find on the web. You just need the image url to put the image into your webpage. You can do a google image search, the right-click the image and copy url. You may need to resize the images using width=wwwpx height=hhhpx. 
@@ -30,7 +30,7 @@ Try modifying the code to see how the output changes. Go to [w3schools](https://
 ### Instructions, Day 3: Python
 - Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
 - Copy and paste the python code in each of the files from GitHub into the repl, and run.  
-Do in this order: 1. simple_math, 2. for_loops, 3. lists, 4. dictionaries, 5. functions.
+**Do in this order: 1. simple_math, 2. for_loops, 3. lists, 4. dictionaries, 5. functions.**  
 - What character indicates a comment?
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
