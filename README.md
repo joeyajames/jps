@@ -29,7 +29,8 @@ Try modifying the code to see how the output changes. Go to [w3schools](https://
 - Copy and paste my table styles into the jsfiddle css window and run it. Then try editing it to make your own style for tables by setting different values for table, tr, td, and th tags. What happens when you add a td:hover style?
 ### Instructions, Day 3: Python
 - Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
-- Copy and paste the python code in each of the files from GitHub into the repl, and run.
+- Copy and paste the python code in each of the files from GitHub into the repl, and run.  
+Do in this order: 1. simple_math, 2. for_loops, 3. lists, 4. dictionaries, 5. functions.
 - What character indicates a comment?
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
