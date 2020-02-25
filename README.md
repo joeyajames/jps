@@ -30,6 +30,7 @@ Try modifying the code to see how the output changes. Go to [w3schools](https://
 ### Instructions, Day 3: Python
 - Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
 - Copy and paste the python code in each of the files from GitHub into the repl, and run.
+- What character indicates a comment?
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
 - How are dictionaries different from lists?
