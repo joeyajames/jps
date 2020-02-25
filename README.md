@@ -4,7 +4,7 @@
 - Go to [jsfiddle](http://www.jsfiddle.net)   
 In the HTML square type Hello World, then click the Run button.  
 You should see the output in the bottom right box.  
-Use jsfiddle for all our HTML exercises.  
+Use jsfiddle for all our HTML and CSS exercises.  
 - Go to [the GitHub html folder](http://www.github.com/joeyajames/jps/html) to find a bunch of different HTML starter code.  
 You can copy and paste these into the jsfiddle HTML box one at a time, or retype them.  
 You should get output in the bottom right box.  
