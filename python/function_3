@@ -1,3 +1,4 @@
+# solves a quadratic equation in the form ax^2 + bx + c = 0
 def solve_quadratic(a, b, c):
   inside = b**2 - (4 * a * c)
   if (inside < 0):
