@@ -1,6 +1,6 @@
 # Intro to Programming
 #### Forest Hill High School > Mr. James
-This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, tables and forms to our page. Then we'll use CSS to improve the styling. Python is a general purpose programming language, and we'll learn very basic programming skills including math functions, for loops, if-else statements, and simple functions.  
+This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, tables and forms to our page. Then we'll use CSS to improve the styling. Python is a general purpose programming language, and we'll learn very basic programming skills including math functions, for loops, if-else statements, lists, dictionaries and simple functions.  
 Most of the code is already written for you, so you only need to copy and paste it, then click Run. You will make minor changes to the code to complete the worksheet.  
 ### Resources
 - Go to [jsfiddle](http://www.jsfiddle.net)   
@@ -13,7 +13,7 @@ You should get output in the bottom right box.
 - See detailed documentation on each HTML tag at [w3schools](https://www.w3schools.com/html/default.asp).  
 W3schools has comprehensive explanations of all HTML tags.  
 - HTML [standard colors](https://www.w3schools.com/cssref/css_colors.asp), HTML [custom hex colors](https://www.w3schools.com/colors/colors_picker.asp), and [color schemes](https://coolors.co/)
-- Online python interpreter, [repl.it](https://repl.it)
+- Online python interpreter, [repl.it](https://repl.it). Click +New Repl button, then select Python. We'll use this window to type in our Python code, run it, and view the output.
 ### Instructions: HTML part 1
 - Complete the HTML-1 worksheet as you go.  
 - Open a jsfiddle window, the GitHub html folder, and w3schools in separate tabs in your browser.
