@@ -1,7 +1,7 @@
 # Intro to Programming
 #### Forest Hill High School > Mr. James
-This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, and forms to our page. Python is a general purpose programming language, and we'll learn very basic programming skills.  
-Most of the code is already written for you, so you only need to copy and paste it, then click Run. You will make minor changes to the code to complete the worksheet.
+This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, tables and forms to our page. Then we'll use CSS to improve the styling. Python is a general purpose programming language, and we'll learn very basic programming skills including math functions, for loops, if-else statements, and simple functions.  
+Most of the code is already written for you, so you only need to copy and paste it, then click Run. You will make minor changes to the code to complete the worksheet.  
 ### Resources
 - Go to [jsfiddle](http://www.jsfiddle.net)   
 In the HTML square type Hello World, then click the Run button.  
@@ -47,11 +47,11 @@ Put things you like on your homepage.
 - How are dictionaries different from lists?  
 - What kinds of things could functions be used for?  
 ### Definitions
-- HTML is hypertext markup language, which is a formatted text that web browsers can understand and decode to show you formatted content.
-- CSS means cascading style sheets. This allows web developers to customize styles for different elements across a whole website. Even if you have 500 different webpages on your site, you can change the paragraph font size by only changing the CSS document in 1 place, so it saves a lot of time and makes the whole site consistent.
-- Javascript is the most widely used web programming language that can execute in the browser when you click on an element. Many browser-based games are written in Javascript.
-  - Form is a web page where the user is required to enter data and click a submit button. There are a variety of different form fields for different types of data input (e.g. check boxes, text fields, drop-down lists). Normally the form itself is written in HTML, and when  you click the submit button a Javascript is executed to process the data.
-- Python is one of the most popular programming language for web development, machine learning, data analysis, and a variety of other things.
-  - List is a data structure in Python that stores an array of items. Most other programming languages call this an array. Python lists can store any type of objects: integers, decimal numbers, text strings, or other.
-  - Dictionary is a data structure that uses key-value pairs to store data. For example, 1:Bob, 2:Jenny, 3:Frank. Or, Caylus:6135728097, Howard:6137892854.  
-  - Boolean is a statement that evaluates to True or False (1 or 0, or On/Off). Examples of Boolean statements: age == 16, height > 65, length < 36, direction == 'up'. Boolean statements are used in if statements.
+- **HTML** is hypertext markup language, which is a formatted text that web browsers can understand and decode to show you formatted content.
+- **CSS** means cascading style sheets. This allows web developers to customize styles for different elements across a whole website. Even if you have 500 different webpages on your site, you can change the paragraph font size by only changing the CSS document in 1 place, so it saves a lot of time and makes the whole site consistent.
+- **JavaScript** is the most widely used web programming language that can execute in the browser when you click on an element. Many browser-based games are written in Javascript.
+  - **Form** is a web page where the user is required to enter data and click a submit button. There are a variety of different form fields for different types of data input (e.g. check boxes, text fields, drop-down lists). Normally the form itself is written in HTML, and when  you click the submit button a Javascript is executed to process the data.
+- **Python** is one of the most popular programming language for web development, machine learning, data analysis, and a variety of other things.
+  - **List** is a data structure in Python that stores an array of items. Most other programming languages call this an array. Python lists can store any type of objects: integers, decimal numbers, text strings, or other.
+  - **Dictionary** is a data structure that uses key-value pairs to store data. For example, 1:Bob, 2:Jenny, 3:Frank. Or, Caylus:6135728097, Howard:6137892854.  
+  - **Boolean** is a statement that evaluates to True or False (1 or 0, or On/Off). Examples of Boolean statements: age == 16, height > 65, length < 36, direction == 'up'. Boolean statements are used in if statements.
