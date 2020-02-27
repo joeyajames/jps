@@ -1,5 +1,7 @@
-# Intro to Web Development
-#### Forest Hill High School > Mr. James  
+# Intro to Programming
+#### Forest Hill High School > Mr. James
+This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, and forms to our page. Python is a general purpose programming language, and we'll learn very basic programming skills.  
+Most of the code is already written for you, so you only need to copy and paste it, then click Run. You will make minor changes to the code to complete the worksheet.
 ### Resources
 - Go to [jsfiddle](http://www.jsfiddle.net)   
 In the HTML square type Hello World, then click the Run button.  
