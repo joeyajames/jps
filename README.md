@@ -13,6 +13,7 @@ You should get output in the bottom right box.
 - See detailed documentation on each HTML tag at [w3schools](https://www.w3schools.com/html/default.asp).  
 W3schools has comprehensive explanations of all HTML tags.  
 - HTML [standard colors](https://www.w3schools.com/cssref/css_colors.asp), HTML [custom hex colors](https://www.w3schools.com/colors/colors_picker.asp), and [color schemes](https://coolors.co/)
+- Online python interpreter, [repl.it](https://repl.it)
 ### Instructions: HTML part 1
 - Complete the HTML-1 worksheet as you go.  
 - Open a jsfiddle window, the GitHub html folder, and w3schools in separate tabs in your browser.
