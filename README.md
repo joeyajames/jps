@@ -35,7 +35,7 @@ Put things you like on your homepage.
 ### Instructions: Python part 1
 - Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
 - Copy and paste the python code in each of the files from GitHub into the repl, and run.  
-**Do in this order: 1. simple_math, 2. for_loops, 3. lists**  
+**Do in this order: 1. simple_math, 2. for_loops, 3. if_else, 4. lists**  
 - What character indicates a comment?
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
@@ -52,3 +52,4 @@ Put things you like on your homepage.
 - Python is one of the most popular programming language for web development, machine learning, data analysis, and a variety of other things.
   - List is a data structure in Python that stores an array of items. Most other programming languages call this an array. Python lists can store any type of objects: integers, decimal numbers, text strings, or other.
   - Dictionary is a data structure that uses key-value pairs to store data. For example, 1:Bob, 2:Jenny, 3:Frank. Or, Caylus:6135728097, Howard:6137892854.  
+  - Boolean is a statement that evaluates to True or False (1 or 0, or On/Off). Examples of Boolean statements: age == 16, height > 65, length < 36, direction == 'up'. Boolean statements are used in if statements.
