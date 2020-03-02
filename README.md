@@ -55,4 +55,4 @@ Put things you like on your homepage.
 - **Python** is one of the most popular programming language for web development, machine learning, data analysis, and a variety of other things.
   - **List** is a data structure in Python that stores an array of items. Most other programming languages call this an array. Python lists can store any type of objects: integers, decimal numbers, text strings, or other.
   - **Dictionary** is a data structure that uses key-value pairs to store data. For example, 1:Bob, 2:Jenny, 3:Frank. Or, Caylus:6135728097, Howard:6137892854.  
-  - **Boolean** is a statement that evaluates to True or False (1 or 0, or On/Off). Examples of Boolean statements: age == 16, height > 65, length < 36, direction == 'up'. Boolean statements are used in if statements.
+  - **Boolean** is an expression that evaluates to True or False (or 1/0, or On/Off). Examples of Boolean expressions: age == 16, height > 65, length < 36, direction == 'up'. Boolean expressions are used in if statements.
