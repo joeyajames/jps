@@ -39,12 +39,16 @@ Put things you like on your homepage.
 - Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
 - Copy and paste the python code in each of the files from GitHub into the repl, and run.  
 **Do in this order: 1. simple_math, 2. for_loops, 3. if_else, 4. lists**  
+- Complete the accompanying worksheet.
 - What character indicates a comment?
 - What types of data can a list hold? Try integers, floating point numbers (decimals), and strings (text). 
 - How do you access individual items in a list?
 - Try writing your own for loop to do an operation on each item in a list (eg. add 5 to each number).  
 ### Instructions: Python part 2  
+- Open two browser tabs: one tab with the GitHub python folder, and another go to [repl.it](http://www.repl.it)
+- Copy and paste the python code in each of the files from GitHub into the repl, and run.  
 - **Do in this order: 1. dictionaries, 2. functions.**  
+- Complete the accompanying worksheet.
 - How are dictionaries different from lists?  
 - What kinds of things could functions be used for?  
 ### Definitions
