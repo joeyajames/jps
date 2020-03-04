@@ -1,6 +1,7 @@
 <html>
 <head>
 <!-- You need the javascript alert.js to go with this -->
+<!-- This script will open an Alert window and show Name -->
 <script type="text/javascript">
 window.onload = function(){
    document.getElementById('send').onclick = function(e){
@@ -10,9 +11,11 @@ window.onload = function(){
 }
 </script>
 </head>
+   
 <body>
 <form method="post">
 <input type="text" name="name" id="name" />
+<!-- When Submit button is clicked, name is posted and shown in the Alert window. -->
 <input type="submit" name="send" id="send" value="send" />
 </form>
 </body>
