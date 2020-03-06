@@ -26,7 +26,9 @@ Try modifying the code to see how the output changes. Add an extra block of text
 Try modifying the code to see how the output changes. Add an extra block of text, or an extra form field. Put your own message in. Try making your own form. 
 - After you get familiar with each of the files in the html folder, try building up your own personal webpage, similar to mine (homepage_2.html).  
 Add images you find on the web. You just need the image url to put the image into your webpage. You can do a google image search, then right-click the image and copy url. You may need to resize the images e.g. 
-    img src="my-url" width=300px height=200px  
+```html
+<img src="my-url" width=300px height=200px>
+```  
 Put things you like on your homepage.  
 - If you want to save your homepage so others can view it on the web you can create a free GitHub account and follow these [instructions](http://jmcglone.com/guides/github-pages/).  I can help you with this.  
 ### Instructions: CSS
