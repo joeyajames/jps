@@ -1,7 +1,7 @@
 # Intro to Programming
 #### Forest Hill High School > Mr. James
-This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, tables and forms to our page. Then we'll use CSS to improve the styling.  
-Python is a general purpose programming language, and we'll learn very basic programming skills including math functions, for loops, if-else statements, lists, dictionaries and simple functions.  
+This is a very brief introduction to programming. We will spend 2 days on HTML, 1 day on CSS, and 2 days on Python. We'll use HTML and CSS to create a simple web page. We'll learn how to add links, images, header text, tables and forms to our page. Then we'll use CSS to improve the styling. We'll use jsfiddle.net to edit and run our HTML and CSS code.  
+Python is a general purpose programming language, and we'll learn very basic programming skills including math functions, for loops, if-else statements, lists, dictionaries and simple functions. We'll use repl.it to edit and run our Python code.  
 The code is already written for you, so you only need to copy and paste it, then click Run. You will make minor changes to the code to complete the worksheets.  
 ### Resources
 - Online HTML and CSS editor [jsfiddle](http://www.jsfiddle.net)   
